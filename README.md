@@ -17,7 +17,7 @@
 Для компиляции примеров с помощью CMake требуется загрузить архив с именем вида so5_mboxes_demo-*-full.zip из секции [Downloads](https://bitbucket.org/sobjectizerteam/so5_mboxes_demo/downloads/). После чего:
 
 ~~~~~{.sh}
-unzip so5_mboxes_demo-full.zip
+unzip so5_mboxes_demo-201712131230-full.zip
 cd so5_mboxes_demo
 mkdir cmake_build
 cd cmake_build
@@ -50,7 +50,7 @@ ruby build.rb
 Либо же можно загрузить архив с именем вида so5_mboxes_demo-*-full.zip из секции [Downloads](https://bitbucket.org/sobjectizerteam/so5_mboxes_demo/downloads/). После чего:
 
 ~~~~~{.sh}
-unzip so5_mboxes_demo-full.zip
+unzip so5_mboxes_demo-201712131230-full.zip
 cd so5_mboxes_demo/dev
 ruby build.rb
 ~~~~~
